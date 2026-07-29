@@ -37,6 +37,12 @@ Do you need special symbols in your password? (yes/no): yes
 
 Your password is: aB3$kL9@xP2m
 
+## Technologies
+
+- Python 3
+- `random` module
+- `string` module
+
 ## Author
 
 Daniel
